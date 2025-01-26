@@ -6,8 +6,7 @@ const Login = () => {
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
       <div className="w-full max-w-md p-6 bg-white rounded-2xl shadow-lg">
         <h2 className="text-2xl font-bold text-gray-800 text-center">Login</h2>
-
-        {/* <p className="hello">Hello</p> */}
+        {/* <p className="abc">Hello</p> */}
         <form className="mt-4 space-y-4">
           <div>
             <label htmlFor="email" className="block text-sm font-medium text-gray-600">
