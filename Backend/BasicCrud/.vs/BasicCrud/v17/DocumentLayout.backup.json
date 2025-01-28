@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Basic Crud App\\Backend\\BasicCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\Migrations\\20250128101625_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BasicCrud\\Migrations\\20250128101625_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD71C40-CF92-4974-8DC4-84D99B6BEC92}|BasicCrud\\BasicCrud.csproj|d:\\basic crud app\\backend\\basiccrud\\basiccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD71C40-CF92-4974-8DC4-84D99B6BEC92}|BasicCrud\\BasicCrud.csproj|solutionrelative:basiccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD71C40-CF92-4974-8DC4-84D99B6BEC92}|BasicCrud\\BasicCrud.csproj|d:\\basic crud app\\backend\\basiccrud\\basiccrud\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD71C40-CF92-4974-8DC4-84D99B6BEC92}|BasicCrud\\BasicCrud.csproj|solutionrelative:basiccrud\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD71C40-CF92-4974-8DC4-84D99B6BEC92}|BasicCrud\\BasicCrud.csproj|d:\\basic crud app\\backend\\basiccrud\\basiccrud\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD71C40-CF92-4974-8DC4-84D99B6BEC92}|BasicCrud\\BasicCrud.csproj|solutionrelative:basiccrud\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD71C40-CF92-4974-8DC4-84D99B6BEC92}|BasicCrud\\BasicCrud.csproj|d:\\basic crud app\\backend\\basiccrud\\basiccrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FD71C40-CF92-4974-8DC4-84D99B6BEC92}|BasicCrud\\BasicCrud.csproj|solutionrelative:basiccrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 409,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250128101625_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\Migrations\\20250128101625_InitialMigration.cs",
+              "RelativeDocumentMoniker": "BasicCrud\\Migrations\\20250128101625_InitialMigration.cs",
+              "ToolTip": "D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\Migrations\\20250128101625_InitialMigration.cs",
+              "RelativeToolTip": "BasicCrud\\Migrations\\20250128101625_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:16:25.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\Program.cs",
+              "RelativeDocumentMoniker": "BasicCrud\\Program.cs",
+              "ToolTip": "D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\Program.cs",
+              "RelativeToolTip": "BasicCrud\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:57:34.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "BasicCrud\\appsettings.json",
+              "ToolTip": "D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\appsettings.json",
+              "RelativeToolTip": "BasicCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T09:55:18.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BasicCrud\\Model\\ApplicationUser.cs",
+              "ToolTip": "D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "BasicCrud\\Model\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:44:54.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BasicCrud\\DbContext\\AppDbContext.cs",
+              "ToolTip": "D:\\Basic Crud App\\Backend\\BasicCrud\\BasicCrud\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "BasicCrud\\DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:39:33.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
