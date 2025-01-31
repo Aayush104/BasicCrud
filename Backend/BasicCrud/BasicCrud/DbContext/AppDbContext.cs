@@ -13,6 +13,14 @@ namespace BasicCrud.DbContext
 
         public DbSet<ApplicationUser> Users { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+
+            builder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly); 
+        }
+
+
 
         public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
